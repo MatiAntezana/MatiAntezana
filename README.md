@@ -32,6 +32,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
        alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40">
+  <div style="display:inline-block; text-align:center; margin:0 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg"
-     alt="ros2" width="40" height="40"/>
+       alt="ros2" width="40" height="40"/><br>
+  <sub>ROS2</sub>
+</div>
 </span>
