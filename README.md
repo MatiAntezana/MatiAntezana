@@ -32,4 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
        alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40">
+    <img src="https://img.shields.io/badge/ROS2-1EB1FF?style=for-the-badge&logo=robot-operating-system&logoColor=white" alt="ros2">
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="nlp">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud">
 </span>
