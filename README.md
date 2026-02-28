@@ -32,12 +32,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
        alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40">
-  <div style="display:inline-block; border:2px solid #2aa9e0; border-radius:20px; padding:20px; margin:10px; width:180px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="50"><br><br>
-    <b>ROS 2</b>
-  </div>
-  <div style="display:inline-block; border:2px solid #2aa9e0; border-radius:20px; padding:20px; margin:10px; width:180px; text-align:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"><br><br>
-  <b>Google Cloud</b>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg"
+     alt="ros2" width="40" height="40"/>
 </span>
