@@ -32,7 +32,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
        alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40">
-    <img src="https://img.shields.io/badge/ROS2-1EB1FF?style=for-the-badge&logo=robot-operating-system&logoColor=white" alt="ros2">
-  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="nlp">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud">
+  <div style="display:inline-block; border:2px solid #2aa9e0; border-radius:20px; padding:20px; margin:10px; width:180px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="50"><br><br>
+    <b>ROS 2</b>
+  </div>
 </span>
