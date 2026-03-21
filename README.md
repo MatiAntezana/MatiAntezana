@@ -4,7 +4,7 @@
 
 - 🎓 Currently studying **Artificial Intelligence Engineering** at [Universidad de San Andrés](https://udesa.edu.ar/)
 - 🏡 Lives in **Buenos Aires, Argentina (Capital City)**
-- Outside tech: I like listening to music 🎧, 🌐 international politics, 💰 finance news and 🚀 space
+- Outside tech: I like listening to music 🎧, 🌐 international geopolitics, 💰 finance news and 🚀 space
 
 ## My Skills Include
 
